@@ -1,0 +1,77 @@
+.c-addresses-search__result-list {
+    list-style: none;
+    margin-bottom: 1.4705882353rem;
+    margin-left: 0;
+    padding-left: 0
+}
+
+.c-addresses-search__result-item {
+    margin-bottom: 1.4705882353rem;
+    padding-bottom: 1.4705882353rem;
+    border-bottom: 1px solid #e0ddd6
+}
+
+.c-addresses-search__result-item:before,.c-addresses-search__result-item:after {
+    content: " ";
+    display: table
+}
+
+.c-addresses-search__result-item:after {
+    clear: both
+}
+
+.c-addresses-search__result-item:last-of-type {
+    border: 0;
+    padding-bottom: 0
+}
+
+.c-addresses-form__bold {
+    font-weight: bold
+}
+.c-addresses-form_poi-lable {
+  margin: 1rem 0;
+}
+
+/* table */
+
+.c-addresses__table {
+  float: left;
+  text-align: left;
+  width: 100%;
+}
+
+.c-addresses__table {
+  text-align: left;
+}
+
+.c-addresses__tableitem--equal {
+  padding-right: 2%;
+  width: 50%;
+}
+
+.c-addresses__tableitem {
+  line-height: 1.8;
+}
+
+.c-addresses__tableitem--equal {
+  padding-right: 2%;
+  width: 50%;
+}
+
+.c-addresses-glossary {
+  display: inline;
+  float: left;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  margin: 0 auto;
+}
+
+.c-addresses-glossary li {
+  display: inline-block;
+  width: 2.3rem;
+}
+
+.c-pagination__list a {
+  padding-right: 0.5rem;
+}

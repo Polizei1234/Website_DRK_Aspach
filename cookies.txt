@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.drk-aspach.de	TRUE	/	FALSE	1999999999	fe_typo_user	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZGVudGlmaWVyIjoiMGNkZmJmN2UwMzQ1YTdkZjA0Yzk0ZDJiNjEzNzBhN2MiLCJ0aW1lIjoiMjAyNi0wNS0zMVQyMDo1MToyNCswMjowMCIsInNjb3BlIjp7ImRvbWFpbiI6Ind3dy5kcmstYXNwYWNoLmRlIiwiaG9zdE9ubHkiOnRydWUsInBhdGgiOiIvIn19.CQU0aB9-TK_0zeidXQ810UhGlJ8Svnax9S5260f4YGE
+www.drk-aspach.de	TRUE	/	FALSE	1999999999	__Secure-typo3nonce_StvVx6o8WDjAZd7TC0supg	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJub25jZSI6ImQ4WEk0aVBvTjQzYXJLY3hrLXp5bHdyN1VpZWZKbWNwcFZGbXpjNXE4eURqcU96Qkg1U1NtUSIsInRpbWUiOiIyMDI2LTA1LTMxVDIwOjU1OjE3KzAyOjAwIn0.1fV12pYbaD779d-lyZKaH8XfAuJvRlOC_9Z5YTf_tCo
+www.drk-aspach.de	TRUE	/	FALSE	1999999999	staticfilecache	typo_user_logged_in
+www.drk-aspach.de	TRUE	/	FALSE	1999999999	__Secure-typo3nonce_Z-WugwAtb1m_l5SkVpgDUw	deleted
+www.drk-aspach.de	TRUE	/	FALSE	1999999999	samesite	strict
+

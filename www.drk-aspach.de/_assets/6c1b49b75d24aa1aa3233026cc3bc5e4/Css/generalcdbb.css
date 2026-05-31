@@ -1,0 +1,8 @@
+/*.toolbar__logo, .toolbar__logo > svg, .toolbar__logo > img {
+  height: 48px;
+  @media (max-width: 560px) {
+    height: 34px;
+  }
+}*/
+
+/*# sourceMappingURL=general.css.map */

@@ -1,0 +1,9 @@
+.c-courseview__list-item {
+  margin-bottom: 1.4705882353rem;
+  padding-bottom: 1.4705882353rem;
+  border-bottom: 1px solid #e0ddd6
+}
+
+.c-courseview__course-register {
+  float: right;
+}

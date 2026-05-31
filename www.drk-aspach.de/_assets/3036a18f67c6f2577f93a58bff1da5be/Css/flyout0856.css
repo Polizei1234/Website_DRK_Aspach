@@ -1,0 +1,12 @@
+@media (min-width: 769px) {
+  .frame-type-drk_calltoaction .topics-teaser {
+    width: 40rem!important;
+    max-width: min(calc(var(--client-vw, 100vw) - 4rem), 722px);
+    font-size: var(--main-size-fluid);
+  }
+}
+@media (max-width: 768px) {
+  .frame-type-drk_calltoaction .topics-teaser .topics-teaser__image img{
+    aspect-ratio: 1/1;
+  }
+}

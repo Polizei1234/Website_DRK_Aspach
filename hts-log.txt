@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 31 May 2026 20:49:42 at https://www.drk-aspach.de/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "de, en, *" https://www.drk-aspach.de/ -O1 "D:\projects\alte_website\DRK-Aspach" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:49:55	Error: 	"Not Found" (404) at link https://www.drk.de/fileadmin/DRK-Logo-Facebook.png (from https://www.drk-aspach.de/)
+20:49:55	Error: 	"Not Found" (404) at link https://www.drk.de/fileadmin/DRK-Logo-Twitter.png (from https://www.drk-aspach.de/)
+20:50:29	Warning: 	Link https://www.drk-aspach.de/spenden/interesse-an-einer-mitgliedschaft/mitglied-werden.html not scanned (follow robots meta tag)
+20:50:47	Error: 	"Not Found" (404) at link https://www.drk-aspach.de/fileadmin/user_upload/Buehnenbilder/Startseite/buehnenbild_schulen_wir_sagen_danke-v3.jpeg (from https://www.drk-aspach.de/_assets/e2ef477b7510a2835782732fd483c6bc/StyleSheets/stylesheet.min.css?1764743946)
+20:50:53	Warning: 	Link https://www.drk-aspach.de/das-drk/selbstverstaendnis/leitbild.html not scanned (follow robots meta tag)
+20:50:54	Warning: 	Link https://www.drk-aspach.de/das-drk/selbstverstaendnis/auftrag/genfer-abkommen.html not scanned (follow robots meta tag)
+20:50:54	Warning: 	Link https://www.drk-aspach.de/das-drk/selbstverstaendnis/auftrag/genfer-abkommen/leicht-verstaendlich.html not scanned (follow robots meta tag)
+20:50:58	Error: 	"Forbidden" (403) at link https://www.drk-aspach.de/das-drk/spalte-3/stellenboerse.html (from https://www.drk-aspach.de/das-drk/adressen.html)
+20:52:08	Error: 	"Forbidden" (403) at link https://www.drk-aspach.de/kurse/gesundheitskurse/gesundheitsprogramme.html (from https://www.drk-aspach.de/kurse.html)
+20:52:11	Error: 	"Not Found" (404) at link https://www.drk-aspach.de/_assets/6c1b49b75d24aa1aa3233026cc3bc5e4/Css/jrk-header.css (from https://www.drk-aspach.de/kurse/erste-hilfe/angebote/engagement/jugendrotkreuz.html)
+20:55:43	Error: 	"Forbidden" (403) at link https://www.drk-aspach.de/leichte-sprache/kurse/gesundheitskurse/gesundheitsprogramme.html (from https://www.drk-aspach.de/leichte-sprache/kurse.html)
+20:55:43	Warning: 	Link https://www.drk-aspach.de/leichte-sprache/spenden/interesse-an-einer-mitgliedschaft/mitglied-werden.html not scanned (follow robots meta tag)
+20:55:44	Warning: 	Warning: store application/octet-stream without scan: D:/projects/alte_website/DRK-Aspach/www.drk-aspach.de/_assets/6c1b49b75d24aa1aa3233026cc3bc5e4/Images/svg/chevron-left.svg
+20:55:44	Warning: 	Warning: store application/octet-stream without scan: D:/projects/alte_website/DRK-Aspach/www.drk-aspach.de/_assets/6c1b49b75d24aa1aa3233026cc3bc5e4/Images/svg/chevron-right.svg
+20:59:47	Warning: 	Link https://www.drk-aspach.de/leichte-sprache/das-drk/selbstverstaendnis/leitbild.html not scanned (follow robots meta tag)
+20:59:48	Warning: 	Link https://www.drk-aspach.de/leichte-sprache/das-drk/selbstverstaendnis/auftrag/genfer-abkommen.html not scanned (follow robots meta tag)
+20:59:48	Warning: 	Link https://www.drk-aspach.de/leichte-sprache/das-drk/selbstverstaendnis/auftrag/genfer-abkommen/leicht-verstaendlich.html not scanned (follow robots meta tag)
+20:59:48	Error: 	"Forbidden" (403) at link https://www.drk-aspach.de/leichte-sprache/das-drk/spalte-3/stellenboerse.html (from https://www.drk-aspach.de/leichte-sprache/das-drk/adressen.html)
+21:00:46	Error: 	"Not Found" (404) at link https://www.drk-aspach.de/_assets/9d0d9d423edf61855281dad6f8fda023/Images/6.323 (from https://www.drk-aspach.de/_assets/9d0d9d423edf61855281dad6f8fda023/Images/spritemap.svg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 29 seconds : 2644 links scanned, 2634 files written (280716904 bytes overall) [110223794 bytes received at 111449 bytes/sec], 191187485 bytes transferred using HTTP compression in 1318 files, ratio 9%, 9.2 requests per connection
+(9 errors, 10 warnings, 0 messages)
